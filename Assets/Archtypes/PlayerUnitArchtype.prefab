@@ -109,6 +109,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71b5c535cf7fff9489c24d7eeef8df1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_SerializedData:
+    LeftClick: 0
+    RightClick: 0
 --- !u!114 &243129630530865673
 MonoBehaviour:
   m_ObjectHideFlags: 0
